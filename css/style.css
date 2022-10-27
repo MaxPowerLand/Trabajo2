@@ -1,0 +1,56 @@
+.texto-blanco{
+    color:white;
+}
+.imagen-tp{
+    width: 50px;
+}
+.portfolio{
+    text-align: left;
+    padding-left: 30px;
+}
+.color2{
+    background-color: lightgray;
+}
+.gris{
+    background-color: grey;
+  }
+  h1{color:white}
+  
+  #imagen{width: 250px;}
+  #imagen1{width: 250px;}
+  #imagen2{width: 250px;}
+  
+  .texto{
+    font-size: 35px !important;
+    font-family: 'Pacifico', cursive;
+    text-decoration: solid;
+    
+  }
+  .columnafooter{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items: center;
+  }
+  .imagen3{
+    width: 50px;
+    float:left;
+    padding-right: 15px;
+  }
+  .txtp{
+    padding-left: 50px;
+  }
+  .colorlink{
+    color: black;
+  }
+  
+.style{
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.enlace1{
+  color: black;
+}
+.style2{
+  justify-items: right;
+}
